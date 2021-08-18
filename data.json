@@ -1,9 +1,9 @@
 {
-    "num": 10,
-    "update_time": 1629275400000,
-    "start_time": 1629271800000,
-    "end_time": 1629277200000,
-    "rate": 1.20,
+    "num": 5,
+    "update_time": 1629388800000,
+    "start_time": 1629302400000,
+    "end_time": 1629388740000,
+    "rate": 1.0,
     "sdk": [30,29,28],
     "model": [
         "vivo",
