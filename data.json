@@ -1,13 +1,14 @@
 {
     "v": 1,
     "update_time": 1620403202000,
-    "start_time": 1620403200000,
-    "end_time": 1620403200000,
-    "rate": 0.20,
-    "sdk": [29,28],
+    "start_time": 1629266400000,
+    "end_time": 1629270000000,
+    "rate": 1.20,
+    "sdk": [30,29,28],
     "model": [
         "vivo",
         "oppo",
-        "huawei"
+        "huawei",
+        "xiaomi"
     ]
 }
